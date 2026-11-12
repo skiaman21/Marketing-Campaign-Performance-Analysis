@@ -73,9 +73,6 @@ The analysis aims to help marketing managers evaluate campaign effectiveness and
 
 Python was used to understand the dataset structure and check data quality.
 
-<img width="981" height="553" alt="dashboard page 1" src="https://github.com/user-attachments/assets/01fb0c1d-2a00-4ba3-af60-23551fa3cc9b" />
-
-
 **Activities performed:**
 - Imported the dataset using Pandas.
 - Examined dataset dimensions and column data types.
@@ -90,9 +87,6 @@ Python was used to understand the dataset structure and check data quality.
 ### 2. Data Analysis & Visualization – Power BI
 
 The cleaned dataset was imported into Power BI to create performance measures and explore business performance.
-
-<img width="978" height="548" alt="dashboard page 2" src="https://github.com/user-attachments/assets/c4bd31cd-db11-4f95-9879-bb320109a75f" />
-
 
 **Key activities:**
 - Created DAX measures for important KPIs.
@@ -111,6 +105,8 @@ Developed a two-page interactive dashboard.
 
 Provides an overall view of marketing performance.
 
+<img width="981" height="553" alt="dashboard page 1" src="https://github.com/user-attachments/assets/01fb0c1d-2a00-4ba3-af60-23551fa3cc9b" />
+
 **Key components:**
 - Total Revenue
 - Total Ad Spend
@@ -126,6 +122,8 @@ Provides an overall view of marketing performance.
 #### Page 2: Campaign Performance & Insights
 
 Provides a deeper comparison of campaign effectiveness.
+
+<img width="978" height="548" alt="dashboard page 2" src="https://github.com/user-attachments/assets/c4bd31cd-db11-4f95-9879-bb320109a75f" />
 
 **Key components:**
 - Campaign Performance KPIs
